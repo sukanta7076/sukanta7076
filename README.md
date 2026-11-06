@@ -1,23 +1,24 @@
 <!--
   PROFILE README: sukanta7076/sukanta7076  (repository must be PUBLIC)
-  Replace every [PLACEHOLDER] before publishing.
+
+  Needs two GitHub Actions workflows to be run once:
+    .github/workflows/snake.yml                    -> creates the "output" branch (snake)
+    .github/workflows/profile-summary-cards.yml    -> creates /profile-summary-card-output (stats cards)
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1E,50:0E4D6B,100:5B21B6&height=260&section=header&text=Sukanta%20Kundu&fontSize=58&fontColor=00F5FF&fontAlign=50&fontAlignY=38&animation=fadeIn&desc=Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20React%20%C2%B7%20Node.js&descSize=18&descColor=C9D1D9&descAlignY=60" width="100%" alt="Sukanta Kundu banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1E,50:0E4D6B,100:5B21B6&height=270&section=header&text=Sukanta%20Kundu&fontSize=60&fontColor=00F5FF&fontAlign=50&fontAlignY=38&animation=twinkling&desc=Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20React%20%C2%B7%20Node.js&descSize=18&descColor=C9D1D9&descAlignY=60" width="100%" alt="Sukanta Kundu banner" />
 
 <a href="https://github.com/sukanta7076">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=620&height=50&lines=Full+Stack+Developer;Software+Developer;Building+Scalable+Applications;Java+%7C+Spring+Boot+%7C+React+%7C+Node.js" alt="Typing animation: Full Stack Developer, Software Developer, Building Scalable Applications, Java | Spring Boot | React | Node.js" />
 </a>
 
-<br />
+<br /><br />
 
-<img src="https://img.shields.io/badge/Java-0E4D6B?style=flat-square&logo=openjdk&logoColor=00F5FF" alt="Java" />
-<img src="https://img.shields.io/badge/Spring_Boot-1E3A8A?style=flat-square&logo=springboot&logoColor=00F5FF" alt="Spring Boot" />
-<img src="https://img.shields.io/badge/React-3B82F6?style=flat-square&logo=react&logoColor=white" alt="React" />
-<img src="https://img.shields.io/badge/Node.js-5B21B6?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Kolkata,_India-0D1117?style=flat-square&logo=googlemaps&logoColor=8B5CF6" alt="Kolkata, India" />
+<img src="https://img.shields.io/badge/ROLE-Full_Stack_Developer-0E4D6B?style=for-the-badge&labelColor=0A0F1E" alt="Role: Full Stack Developer" />
+<img src="https://img.shields.io/badge/BASE-Kolkata,_India-5B21B6?style=for-the-badge&labelColor=0A0F1E" alt="Base: Kolkata, India" />
+<img src="https://img.shields.io/badge/STATUS-Open_to_opportunities-1E3A8A?style=for-the-badge&labelColor=0A0F1E" alt="Status: Open to opportunities" />
 
 </div>
 
@@ -25,7 +26,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:3B82F6,100:8B5CF6&height=2" width="100%" alt="" />
 
-<h2 align="center">About Me</h2>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&color=00F5FF&center=true&vCenter=true&repeat=false&width=500&height=55&lines=%2F%2F+About+Me" alt="About Me" />
+</div>
 
 <p align="center">
   I'm a <b>Full Stack Developer</b> who builds web applications end to end.<br />
@@ -46,39 +49,41 @@ public class Sukanta {
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:3B82F6,100:8B5CF6&height=2" width="100%" alt="" />
 
-<h2 align="center">Tech Stack</h2>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&color=00F5FF&center=true&vCenter=true&repeat=false&width=500&height=55&lines=%2F%2F+Tech+Stack" alt="Tech Stack" />
+</div>
 
 <div align="center">
 
-<sub><b>PROGRAMMING LANGUAGES</b></sub><br />
+<img src="https://img.shields.io/badge/PROGRAMMING_LANGUAGES-0E4D6B?style=flat-square" alt="Programming Languages" /><br />
 <img src="https://skillicons.dev/icons?i=java,js,ts&theme=dark" alt="Java, JavaScript, TypeScript" />
 
-<sub><b>BACKEND DEVELOPMENT</b></sub><br />
+<img src="https://img.shields.io/badge/BACKEND-1E3A8A?style=flat-square" alt="Backend Development" /><br />
 <img src="https://skillicons.dev/icons?i=spring,nodejs,express&theme=dark" alt="Spring Boot, Node.js, Express.js" />
 <br />
-<img src="https://img.shields.io/badge/REST_APIs-0E4D6B?style=flat-square" alt="REST APIs" />
+<img src="https://img.shields.io/badge/REST_APIs-0A0F1E?style=flat-square&labelColor=0A0F1E&color=0E4D6B" alt="REST APIs" />
 <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
 <img src="https://img.shields.io/badge/OAuth_2.0-1E3A8A?style=flat-square" alt="OAuth 2.0" />
 <img src="https://img.shields.io/badge/RBAC-5B21B6?style=flat-square" alt="RBAC" />
 
-<sub><b>FRONTEND DEVELOPMENT</b></sub><br />
+<img src="https://img.shields.io/badge/FRONTEND-5B21B6?style=flat-square" alt="Frontend Development" /><br />
 <img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" alt="React, HTML5, CSS3" />
 
-<sub><b>DATABASES</b></sub><br />
+<img src="https://img.shields.io/badge/DATABASES-0E4D6B?style=flat-square" alt="Databases" /><br />
 <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" alt="MongoDB, MySQL" />
 
-<sub><b>CLOUD &amp; DEVOPS</b></sub><br />
+<img src="https://img.shields.io/badge/CLOUD_%26_DEVOPS-1E3A8A?style=flat-square" alt="Cloud and DevOps" /><br />
 <img src="https://skillicons.dev/icons?i=azure,docker,githubactions,vercel,netlify&theme=dark" alt="Azure, Docker, GitHub Actions, Vercel, Netlify" />
 <br />
 <img src="https://img.shields.io/badge/Render-0A0F1E?style=flat-square&logo=render&logoColor=00F5FF" alt="Render" />
 
-<sub><b>TOOLS &amp; INTEGRATIONS</b></sub><br />
+<img src="https://img.shields.io/badge/TOOLS_%26_INTEGRATIONS-5B21B6?style=flat-square" alt="Tools and Integrations" /><br />
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" alt="Git, GitHub, Postman, VS Code" />
 <br />
 <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
 <img src="https://img.shields.io/badge/Judge0_API-0E4D6B?style=flat-square" alt="Judge0 API" />
 
-<sub><b>SAP TECHNOLOGIES</b></sub><br />
+<img src="https://img.shields.io/badge/SAP_TECHNOLOGIES-0E4D6B?style=flat-square" alt="SAP Technologies" /><br />
 <img src="https://img.shields.io/badge/SAP_BTP-0FAAFF?style=flat-square&logo=sap&logoColor=white" alt="SAP BTP" />
 <img src="https://img.shields.io/badge/SAP_CAP-0FAAFF?style=flat-square&logo=sap&logoColor=white" alt="SAP CAP" />
 <img src="https://img.shields.io/badge/CDS_%26_OData-1E3A8A?style=flat-square" alt="CDS and OData" />
@@ -90,12 +95,14 @@ public class Sukanta {
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:3B82F6,100:8B5CF6&height=2" width="100%" alt="" />
 
-<h2 align="center">Currently Learning</h2>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&color=00F5FF&center=true&vCenter=true&repeat=false&width=500&height=55&lines=%2F%2F+Currently+Learning" alt="Currently Learning" />
+</div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java_Backend_Engineering-0E4D6B?style=for-the-badge&logo=openjdk&logoColor=00F5FF" alt="Java Backend Engineering" />
-  <img src="https://img.shields.io/badge/Spring_Boot-1E3A8A?style=for-the-badge&logo=springboot&logoColor=00F5FF" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/System_Design-5B21B6?style=for-the-badge" alt="System Design" />
+  <img src="https://img.shields.io/badge/LEARNING-Java_Backend_Engineering-0E4D6B?style=for-the-badge&labelColor=0A0F1E&logo=openjdk&logoColor=00F5FF" alt="Learning: Java Backend Engineering" />
+  <img src="https://img.shields.io/badge/LEARNING-Spring_Boot-1E3A8A?style=for-the-badge&labelColor=0A0F1E&logo=springboot&logoColor=00F5FF" alt="Learning: Spring Boot" />
+  <img src="https://img.shields.io/badge/LEARNING-System_Design-5B21B6?style=for-the-badge&labelColor=0A0F1E" alt="Learning: System Design" />
 </p>
 
 <p align="center">
@@ -107,22 +114,30 @@ public class Sukanta {
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:3B82F6,100:8B5CF6&height=2" width="100%" alt="" />
 
-<h2 align="center">GitHub Analytics</h2>
-
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&color=00F5FF&center=true&vCenter=true&repeat=false&width=500&height=55&lines=%2F%2F+GitHub+Analytics" alt="GitHub Analytics" />
+</div>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=sukanta7076&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=8B5CF6&text_color=C9D1D9" alt="GitHub stats for sukanta7076" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukanta7076&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9" alt="Top languages for sukanta7076" />
+<!-- Streak card: public service, works independently of the Actions below. -->
+<!-- Cards below are generated by YOUR OWN workflow (profile-summary-cards.yml) and appear after its first run. -->
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=sukanta7076&theme=dark&background=0D1117&ring=8B5CF6&fire=00F5FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00F5FF&sideLabels=3B82F6&dates=8B949E&border=30363D" alt="GitHub streak for sukanta7076" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sukanta7076&bg_color=0D1117&color=00F5FF&line=8B5CF6&point=FFFFFF&area=true&area_color=3B82F6&hide_border=true&title_color=00F5FF" width="100%" alt="Contribution activity graph for sukanta7076" />
+<br />
+
+<img width="49%" src="https://raw.githubusercontent.com/sukanta7076/sukanta7076/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats for sukanta7076" />
+<img width="49%" src="https://raw.githubusercontent.com/sukanta7076/sukanta7076/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most used languages in commits" />
+<img width="49%" src="https://raw.githubusercontent.com/sukanta7076/sukanta7076/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repositories per language" />
+<img width="49%" src="https://raw.githubusercontent.com/sukanta7076/sukanta7076/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time of day" />
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:3B82F6,100:8B5CF6&height=2" width="100%" alt="" />
 
-<h2 align="center">Contribution Snake</h2>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&color=00F5FF&center=true&vCenter=true&repeat=false&width=500&height=55&lines=%2F%2F+Contribution+Snake" alt="Contribution Snake" />
+</div>
 
 <!-- This image only appears after the "snake.yml" workflow has run once and created the "output" branch. -->
 <div align="center">
@@ -135,7 +150,9 @@ public class Sukanta {
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:3B82F6,100:8B5CF6&height=2" width="100%" alt="" />
 
-<h2 align="center">Connect With Me</h2>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2000&color=00F5FF&center=true&vCenter=true&repeat=false&width=500&height=55&lines=%2F%2F+Connect+With+Me" alt="Connect With Me" />
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sukanta-kundu-92471a250/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -143,8 +160,8 @@ public class Sukanta {
   <a href="https://github.com/sukanta7076"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=8B5CF6" alt="GitHub" /></a>
 </p>
 
-<p align="center">
-  <sub>Open to Full Stack Developer opportunities.</sub>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=false&width=520&height=90&lines=%24+status+--check;%3E+Open+to+Full+Stack+Developer+opportunities" alt="Open to Full Stack Developer opportunities" />
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B21B6,50:0E4D6B,100:0A0F1E&height=120&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B21B6,50:0E4D6B,100:0A0F1E&height=140&section=footer&text=Let%27s%20build%20something%20great&fontSize=22&fontColor=00F5FF&fontAlignY=68&animation=twinkling" width="100%" alt="" />
