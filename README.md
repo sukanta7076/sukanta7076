@@ -138,7 +138,7 @@ public class Sukanta {
 <h2 align="center">Connect With Me</h2>
 
 <p align="center">
-  <a href="[LINKEDIN_URL]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/sukanta-kundu-92471a250/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:kundu.sukanta.9641@gmail.com"><img src="https://img.shields.io/badge/Email-1E3A8A?style=for-the-badge&logo=gmail&logoColor=00F5FF" alt="Email" /></a>
   <a href="https://github.com/sukanta7076"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=8B5CF6" alt="GitHub" /></a>
 </p>
