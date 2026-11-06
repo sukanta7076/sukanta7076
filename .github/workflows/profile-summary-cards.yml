@@ -1,0 +1,38 @@
+# Save this file in your profile repository (sukanta7076/sukanta7076) at:
+#   .github/workflows/profile-summary-cards.yml
+#
+# It generates SVG stats cards into the folder "profile-summary-card-output"
+# on the main branch. The README reads the cards from there.
+
+name: GitHub Profile Summary Cards
+
+on:
+  # Rebuild once a day
+  schedule:
+    - cron: "0 0 * * *"
+  # Allow manual runs from the Actions tab (use this for the first run)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          # If the run fails with "Resource not accessible by integration",
+          # create a personal access token, save it as a repository secret
+          # named SUMMARY_GITHUB_TOKEN, and use that secret here instead.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          # Branch the cards are committed to
+          BRANCH_NAME: "main"
+          # Used by the "productive time" card (India is UTC+5:30; whole hours only)
+          UTC_OFFSET: 5
